@@ -1,0 +1,5 @@
+{
+  "name": "CapCut TTS Frontend",
+  "description": "A web-based client to interact with the CapCut Text-to-Speech service. It allows users to input text, configure settings like voice speaker, and synthesize audio in manageable chunks. The application also includes a text processor to handle large inputs from text or DOCX files.",
+  "requestFramePermissions": []
+}
